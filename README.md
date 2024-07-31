@@ -7,8 +7,8 @@ Me gusta programar, me gusta aprender sobre programacion, aprender sobre nuevas 
 
 ## 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Noriega20310003&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=laisha1308&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laisha1308&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Noriega20310003&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noriega20310003&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top de contribuciones:
 ![](https://github-contributor-stats.vercel.app/api?username=Noriega20310003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
